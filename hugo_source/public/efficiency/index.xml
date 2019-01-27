@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Efficiency on Doc List</title>
-    <link>gethugothemes.com/efficiency/</link>
+    <link>cbbstatshelp.com/efficiency/</link>
     <description>Recent content in Efficiency on Doc List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dadgum Box Scores | Chris Gallo © 2017-2019.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="gethugothemes.com/efficiency/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cbbstatshelp.com/efficiency/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intro to Efficiency</title>
-      <link>gethugothemes.com/efficiency/intro/</link>
+      <link>cbbstatshelp.com/efficiency/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/intro/</guid>
+      <guid>cbbstatshelp.com/efficiency/intro/</guid>
       <description>A team&amp;rsquo;s success comes down to its efficiency.
 When a team has the ball, how easily does it score points?
 When a team&amp;rsquo;s opponent has the ball, how easily does their opponent score points?
@@ -28,10 +28,10 @@ In this section, we&amp;rsquo;ll cover the different types of efficiency and how
     
     <item>
       <title>Possessions</title>
-      <link>gethugothemes.com/efficiency/possessions/</link>
+      <link>cbbstatshelp.com/efficiency/possessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/possessions/</guid>
+      <guid>cbbstatshelp.com/efficiency/possessions/</guid>
       <description>Possessions are the foundation of a team&amp;rsquo;s offensive and defensive efficiency.
 A team can&amp;rsquo;t score if it doesn&amp;rsquo;t have the ball.
 Basketball has evolved over time all because of possessions.
@@ -41,10 +41,10 @@ By 1985, the NCAA adopted a shot clock to end this strategy.</description>
     
     <item>
       <title>Offensive and Defensive Efficiency</title>
-      <link>gethugothemes.com/efficiency/offense-defense/</link>
+      <link>cbbstatshelp.com/efficiency/offense-defense/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/offense-defense/</guid>
+      <guid>cbbstatshelp.com/efficiency/offense-defense/</guid>
       <description>Let&amp;rsquo;s start with Offensive Efficiency.
 A team&amp;rsquo;s offensive efficiency is the amount of points it scores per 100 offensive possessions.
 OE = (Points scored * 100) / Possessions
@@ -57,10 +57,10 @@ Wichita State scored 75 points over 72.</description>
     
     <item>
       <title>Combined Efficiency</title>
-      <link>gethugothemes.com/efficiency/combined-efficiency/</link>
+      <link>cbbstatshelp.com/efficiency/combined-efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/combined-efficiency/</guid>
+      <guid>cbbstatshelp.com/efficiency/combined-efficiency/</guid>
       <description>Combined efficiency is the number of points a team would gain or lose in 100 possessions. Take a team&amp;rsquo;s offensive efficiency and subtract the defensive efficiency.
 Combined Efficiency = OE - DE
 An Example
@@ -71,10 +71,10 @@ Combined Efficiency = 112 - 104 = 8</description>
     
     <item>
       <title>Tempo and Pace</title>
-      <link>gethugothemes.com/efficiency/tempo-and-pace/</link>
+      <link>cbbstatshelp.com/efficiency/tempo-and-pace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/tempo-and-pace/</guid>
+      <guid>cbbstatshelp.com/efficiency/tempo-and-pace/</guid>
       <description>Tempo or pace is the number of possessions a team uses in a game.
 Remember the 4 Corner offense? Dean Smith preferred to play a slower tempo to limit their opponents&amp;rsquo; possessions.
 Today, there is a shot clock, and the 4 Corner offense likely wouldn&amp;rsquo;t be as effective.
@@ -83,10 +83,10 @@ Why is tempo or pace important? Not all teams have the same preferences. Some te
     
     <item>
       <title>Adjusted Efficiency</title>
-      <link>gethugothemes.com/efficiency/adjusted-efficiency/</link>
+      <link>cbbstatshelp.com/efficiency/adjusted-efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/adjusted-efficiency/</guid>
+      <guid>cbbstatshelp.com/efficiency/adjusted-efficiency/</guid>
       <description>Offensive and defensive efficiency come directly from a box score. The four factors lead to the amount of points a team scores and how they choose to play contributes to the amount of possessions a team uses.
 It&amp;rsquo;s raw information. The raw offensive efficiency and raw defensive efficiency don&amp;rsquo;t factor in competition.
 Why is this important? Here are 2 additional examples of the importance of adjusted efficiencies using KenPom&amp;rsquo;s analysis.</description>
@@ -94,10 +94,10 @@ Why is this important? Here are 2 additional examples of the importance of adjus
     
     <item>
       <title>Average Possession Length</title>
-      <link>gethugothemes.com/efficiency/apl/</link>
+      <link>cbbstatshelp.com/efficiency/apl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/efficiency/apl/</guid>
+      <guid>cbbstatshelp.com/efficiency/apl/</guid>
       <description>Tempo or pace shows how a team prefers to play. A team&amp;rsquo;s style.
 Do they play up-tempo? Do they like to slow it down? Do they play man-to-man defense? Or zone?
 A lot of these questions can be answered calculating a team&amp;rsquo;s average possession length.

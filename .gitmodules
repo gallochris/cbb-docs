@@ -1,0 +1,3 @@
+[submodule "hugo_source/dot-hugo-documentation-theme"]
+	path = hugo_source/dot-hugo-documentation-theme
+	url = https://github.com/Gethugothemes/dot-hugo-documentation-theme.git

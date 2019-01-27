@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Doc List</title>
-    <link>cbbstatshelp.com/about/</link>
+    <link>/about/</link>
     <description>Recent content in About on Doc List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dadgum Box Scores | Chris Gallo © 2017-2019.</copyright>
     
-	<atom:link href="cbbstatshelp.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Purpose</title>
-      <link>cbbstatshelp.com/about/purpose/</link>
+      <link>/about/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/about/purpose/</guid>
+      <guid>/about/purpose/</guid>
       <description>The goal of this site to help people learn more about advanced analytics for college basketball.
 None of the information on this site is new. You can find it all on Kenpom.com and other places on the web. This information is remixed and reshuffled to make it easier for you to digest.
 The concepts listed on this site aren&amp;rsquo;t right. They aren&amp;rsquo;t wrong either. They&amp;rsquo;re just there for you to draw your own conclusions or maybe consider a new perspective.</description>
@@ -24,10 +24,10 @@ The concepts listed on this site aren&amp;rsquo;t right. They aren&amp;rsquo;t w
     
     <item>
       <title>Terms</title>
-      <link>cbbstatshelp.com/about/terms/</link>
+      <link>/about/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/about/terms/</guid>
+      <guid>/about/terms/</guid>
       <description>Terms By visiting and using this site, you agree to these terms. If you don&amp;rsquo;t agree, please don&amp;rsquo;t use this site.
 Copyright and Trademarks This site, help.dadgumboxscores.com, and all of its contents are owned by Chris Gallo. All rights reserved.
 How can I use this information? Please don&amp;rsquo;t copy, distribute, or redistribute any information on this site. Yes, &amp;ldquo;fair use&amp;rdquo; is allowed. If you do use something or share, please cite help.</description>

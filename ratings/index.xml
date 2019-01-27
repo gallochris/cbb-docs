@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ratings on Doc List</title>
-    <link>cbbstatshelp.com/ratings/</link>
+    <link>/ratings/</link>
     <description>Recent content in Ratings on Doc List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dadgum Box Scores | Chris Gallo © 2017-2019.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="cbbstatshelp.com/ratings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ratings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intro to Ratings</title>
-      <link>cbbstatshelp.com/ratings/intro/</link>
+      <link>/ratings/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/ratings/intro/</guid>
+      <guid>/ratings/intro/</guid>
       <description>This section covers KenPom ratings.
 A team is rated based on its skill and opportunities. Or to put it more simply, a team is rated on its efficiency.
 The ratings system is built on points scored or points allowed per possession.
@@ -26,10 +26,10 @@ KenPom&amp;rsquo;s system is predictive. It&amp;rsquo;s not meant to measure how
     
     <item>
       <title>Adjusted Efficiency Margin</title>
-      <link>cbbstatshelp.com/ratings/adjusted-efficiency-margin/</link>
+      <link>/ratings/adjusted-efficiency-margin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/ratings/adjusted-efficiency-margin/</guid>
+      <guid>/ratings/adjusted-efficiency-margin/</guid>
       <description>Adjusted Efficiency Margin, or AdjEM, is the difference between a team’s offensive and defensive efficiency.
 AdjEM = AdjOE - AdjDE
 AdjEM is used to rate teams. It was introduced by KenPom prior to the 2016-2017 season, and it&amp;rsquo;s detailed in this blog post. Prior to this metric, ratings were built on log5 and the Pythagorean expectation.
@@ -38,10 +38,10 @@ What does this mean? The adjusted efficiency margin shows the number of points a
     
     <item>
       <title>Luck</title>
-      <link>cbbstatshelp.com/ratings/luck/</link>
+      <link>/ratings/luck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/ratings/luck/</guid>
+      <guid>/ratings/luck/</guid>
       <description>Luck doesn&amp;rsquo;t factor into a team&amp;rsquo;s rating. It&amp;rsquo;s a metric that compares a team&amp;rsquo;s record to what they deserved based on their game-by-game efficiency.
 If a team is involved in a lot of close games, it shouldn&amp;rsquo;t win or lose all of them. If a team wins all of the close games, they&amp;rsquo;re viewed as a lucky. An unlucky team would lose all of their close games.
 Luck is measured using Dean Oliver&amp;rsquo;s correlated Gaussian method.</description>
@@ -49,10 +49,10 @@ Luck is measured using Dean Oliver&amp;rsquo;s correlated Gaussian method.</desc
     
     <item>
       <title>Overall Strength of Schedule</title>
-      <link>cbbstatshelp.com/ratings/overall-sos/</link>
+      <link>/ratings/overall-sos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/ratings/overall-sos/</guid>
+      <guid>/ratings/overall-sos/</guid>
       <description>A team&amp;rsquo;s strength of schedule is made up of 3 components.
 The 3 components:
  AdjEM is the overall strength of schedule of a team AdjO - Opponent&amp;rsquo;s average adjusted offensive efficiency AdjD - Opponent&amp;rsquo;s average adjusted defensive efficiency  AdjEM for strength of schedule is calculated:
@@ -62,10 +62,10 @@ A team&amp;rsquo;s AdjEM for SOS is difference between the average of its oppone
     
     <item>
       <title>Tiers</title>
-      <link>cbbstatshelp.com/ratings/tiers/</link>
+      <link>/ratings/tiers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cbbstatshelp.com/ratings/tiers/</guid>
+      <guid>/ratings/tiers/</guid>
       <description>While a team&amp;rsquo;s strength of schedule can give you an idea about how they stack up to competition, how do you know if a team has quality wins or losses?
 Tiers can help answer this question.
 KenPom defines 2 tiers:

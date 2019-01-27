@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Player Stats on Doc List</title>
-    <link>gethugothemes.com/player-stats/</link>
+    <link>cbbstatshelp.com/player-stats/</link>
     <description>Recent content in Player Stats on Doc List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dadgum Box Scores | Chris Gallo © 2017-2019.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="gethugothemes.com/player-stats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cbbstatshelp.com/player-stats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intro to Player Stats</title>
-      <link>gethugothemes.com/player-stats/intro/</link>
+      <link>cbbstatshelp.com/player-stats/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/intro/</guid>
+      <guid>cbbstatshelp.com/player-stats/intro/</guid>
       <description>The same way KenPom rates teams, players can also be evaluated.
 In this section, you&amp;rsquo;ll find the different stats that go into assessing an individual player.
  Minutes played and possessions used Offensive rating (ORtg) Shooting (%Shots, eFG%, &amp;amp; TS%) Rebounding percentages (OR% &amp;amp; DR%) Assists and Turnovers Blocks &amp;amp; Steals Fouls  </description>
@@ -25,10 +25,10 @@ In this section, you&amp;rsquo;ll find the different stats that go into assessin
     
     <item>
       <title>Minutes Played</title>
-      <link>gethugothemes.com/player-stats/minutes-played/</link>
+      <link>cbbstatshelp.com/player-stats/minutes-played/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/minutes-played/</guid>
+      <guid>cbbstatshelp.com/player-stats/minutes-played/</guid>
       <description>Minutes played measures how often a player is on the floor per game. This stat doesn&amp;rsquo;t factor in overtime games, so it can be a bit misleading.
 KenPom uses a percentage of possible minutes played to account for overtime periods.
 (%Min) = Minutes played / Possible Amount of Minutes
@@ -37,10 +37,10 @@ In the 2017-2018 season, Tyus Battle of Syracuse played in 96.2% of all minutes.
     
     <item>
       <title>Offensive Ratings</title>
-      <link>gethugothemes.com/player-stats/offensive-ratings/</link>
+      <link>cbbstatshelp.com/player-stats/offensive-ratings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/offensive-ratings/</guid>
+      <guid>cbbstatshelp.com/player-stats/offensive-ratings/</guid>
       <description>Remember a team&amp;rsquo;s offensive efficiency?
 An individual player can be assessed using a similar measurement. This is a player&amp;rsquo;s Offensive Rating (ORtg).
 This stat comes from the mind of Dean Oliver. Oliver defines the offensive rating:
@@ -50,10 +50,10 @@ This number tells you how many points a player is likely to score when given an 
     
     <item>
       <title>Shooting</title>
-      <link>gethugothemes.com/player-stats/shooting/</link>
+      <link>cbbstatshelp.com/player-stats/shooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/shooting/</guid>
+      <guid>cbbstatshelp.com/player-stats/shooting/</guid>
       <description>We&amp;rsquo;ll look at 3 calculations here to measure a player&amp;rsquo;s ability to shoot:
  %Shots eFG% TS%  Percentage of shots taken When a player is on the court, how many shots does the player attempt compared the rest of the team?
 A percentage of shots taken is measured by taking a players&amp;rsquo; field goal attempts divided by its percentage of minutes played multiplied by its team&amp;rsquo;s field goal attempts.</description>
@@ -61,10 +61,10 @@ A percentage of shots taken is measured by taking a players&amp;rsquo; field goa
     
     <item>
       <title>Rebounding</title>
-      <link>gethugothemes.com/player-stats/rebounding/</link>
+      <link>cbbstatshelp.com/player-stats/rebounding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/rebounding/</guid>
+      <guid>cbbstatshelp.com/player-stats/rebounding/</guid>
       <description>An individual player&amp;rsquo;s ability to rebound increases its team&amp;rsquo;s possessions. There are 2 percentages used to measure a player&amp;rsquo;s ability to grab rebounds.
  Offensive rebounding percentage (OR%) Defensive rebounding percentage (DR%)  Offensive Rebounding Percentage What is the percentage of offensive rebounds a player gets?
 This is calculated by incorporating a player&amp;rsquo;s total offensive rebounds, percentage of minutes played, a team&amp;rsquo;s total offensive rebounds, and opponent&amp;rsquo;s defensive rebounds.</description>
@@ -72,10 +72,10 @@ This is calculated by incorporating a player&amp;rsquo;s total offensive rebound
     
     <item>
       <title>Assists and Turnovers</title>
-      <link>gethugothemes.com/player-stats/assists-and-turnovers/</link>
+      <link>cbbstatshelp.com/player-stats/assists-and-turnovers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/assists-and-turnovers/</guid>
+      <guid>cbbstatshelp.com/player-stats/assists-and-turnovers/</guid>
       <description>An individual player&amp;rsquo;s ability to distribute the ball and avoid turnovers is measured by 2 stats.
  Assist Rate Turnover Rate  Assist Rate A player&amp;rsquo;s assist rate is computed by taking a player&amp;rsquo;s total assists divided by the made field goals by the player&amp;rsquo;s teammates while the player is on the court.
 Here is the calculation:
@@ -84,10 +84,10 @@ ARate = 100 * AST / (((MP / (Team&#39;s MP / 5)) * Team&#39;s FG) - FG)</descrip
     
     <item>
       <title>Blocks and Steals</title>
-      <link>gethugothemes.com/player-stats/blocks-and-steals/</link>
+      <link>cbbstatshelp.com/player-stats/blocks-and-steals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/blocks-and-steals/</guid>
+      <guid>cbbstatshelp.com/player-stats/blocks-and-steals/</guid>
       <description>A player&amp;rsquo;s defensive ability can be measured using blocks and steals.
  Block Percentage (%Blocks) Steal Percentage (%Stls)  Block Percentage Block percentage is the percentage of opponents&amp;rsquo; 2-point shots that are blocked by an individual player while he&amp;rsquo;s on the floor.
 %Blocks = Total Player&#39;s Blocks / (%Min * Opponents&#39; 2-point attempts)
@@ -96,10 +96,10 @@ For example, Sagaba Konate of West Virginia posted a 15.64 block percentage in t
     
     <item>
       <title>Fouls</title>
-      <link>gethugothemes.com/player-stats/fouls/</link>
+      <link>cbbstatshelp.com/player-stats/fouls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gethugothemes.com/player-stats/fouls/</guid>
+      <guid>cbbstatshelp.com/player-stats/fouls/</guid>
       <description>There are 3 metrics that indicate how fouls factor into an individual&amp;rsquo;s effectiveness:
  Free Throw Rate (FTRate) Fouls committed per 40 minutes played (FC/40) Fouls drawn per 40 minutes played (FD/40)  Free Throw Rate (FTRate) Free throw rate measures a player&amp;rsquo;s ability to get to the foul line relative to how often he attempts to score. It takes a players free throw attempts and divides those attempts by the player&amp;rsquo;s total field goal attempts.</description>
     </item>

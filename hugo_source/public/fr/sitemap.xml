@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>gethugothemes.com/fr/contact/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>gethugothemes.com/fr/elements/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/elements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/elements/"
+                />
+  </url>
+  
+  <url>
+    <loc>gethugothemes.com/fr/faq/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>gethugothemes.com/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>gethugothemes.com/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>gethugothemes.com/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="gethugothemes.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="gethugothemes.com/fr/tags/"
+                />
+  </url>
+  
+</urlset>

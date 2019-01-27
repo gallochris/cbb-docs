@@ -1,3 +1,6 @@
 [submodule "hugo_source/dot-hugo-documentation-theme"]
 	path = hugo_source/dot-hugo-documentation-theme
 	url = https://github.com/Gethugothemes/dot-hugo-documentation-theme.git
+[submodule "hugo_source/--force"]
+	path = hugo_source/--force
+	url = https://github.com/Gethugothemes/dot-hugo-documentation-theme.git

@@ -1,0 +1,25 @@
+{{ partial "head.html" . }}
+
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="shadow-bottom position-relative">
+  <div class="container">
+    {{ partial "navigation.html" . }}
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}
+
+{{ "<!-- contact -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+       {{ with .Site.Params.contact.title }} <h2 class="section-title text-primary">{{ . }}</h2> {{ end }}
+       {{ with .Site.Params.contact.content }} <p>{{ . | safeHTML }}</p> {{ end }}
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- /contact -->" | safeHTML }}
+
+{{ partial "footer.html" . }}

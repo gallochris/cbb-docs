@@ -185,17 +185,17 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

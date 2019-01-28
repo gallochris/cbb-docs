@@ -40,7 +40,7 @@ whiteColor = "#ffffff"
       title = "College Basketball Stats Help"
       description = "Find what you're looking for"
       image = "images/banner.jpg"
-      placeholder = "eFG, four factors, efficiency, assist rate"
+      placeholder = "four factors, efficiency, assists, turnovers"
 
     # Topics
     [Languages.en.params.topics]

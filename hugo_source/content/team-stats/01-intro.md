@@ -17,6 +17,6 @@ In this section, we'll answer each one of these questions.
 
 * [Team Offense](/team-stats/team-offense)
 * [Team Defense](/team-stats/team-defense)
-* [Points Distribution](/team-stats/points-distrubtion)
+* [Points Distribution](/team-stats/points-distribution)
 * [Personnel Stats](/team-stats/personnel-stats)
 

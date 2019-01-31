@@ -7,7 +7,7 @@ weight: 2
 
 This stat measures a team's ability to shoot 2-point and 3-point shots.
 
-A team's field goal percentage is calculated by the number of shots attempted divided by the number of shots made. This includes **both** 2-point and 3-point shots.
+A team’s field goal percentage is calculated by the number of shots made divided by the number of shots attempted. This includes **both** 2-point and 3-point shots.
 
 `FG% = FGM/FGA * 100`
 

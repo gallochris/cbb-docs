@@ -116,7 +116,7 @@ What does this mean? The adjusted efficiency margin shows the number of points a
       
       <guid>/four-factors/efg/</guid>
       <description>This stat measures a team&amp;rsquo;s ability to shoot 2-point and 3-point shots.
-A team&amp;rsquo;s field goal percentage is calculated by the number of shots attempted divided by the number of shots made. This includes both 2-point and 3-point shots.
+A team’s field goal percentage is calculated by the number of shots made divided by the number of shots attempted. This includes both 2-point and 3-point shots.
 FG% = FGM/FGA * 100
 For example, in the 2018 NCAA Tournament Semifinal game between Villanova and Kansas, Villanova made 36 of its 65 shot attempts en route to scoring 95 points.</description>
     </item>

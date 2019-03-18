@@ -11,7 +11,7 @@ None of the information on this site is _new_. You can find it all on [Kenpom.co
 
 The concepts listed on this site aren't right. They aren't wrong either. They're just there for you to draw your own conclusions or maybe consider a new perspective.
 
-Please understand this site isn't perfect. If you find a typo or see bad math, or a wrong calculation, please [let me know](contact.md). While not perfect, I want this to be as accurate as possible.
+Please understand this site isn't perfect. If you find a typo or see bad math, or a wrong calculation, please [let me know](/contact). While not perfect, I want this to be as accurate as possible.
 
 
 

@@ -31,6 +31,10 @@ Jordan Sperber has worked for collegiate teams, runs [thehoopvision.com](http://
 
 Bart Torvik runs his own analysis at [barttorvik.com](http://www.barttorvik.com/). You can [find him on Twitter](https://twitter.com/totally_t_bomb), and he shares several useful tools to compare teams all the way back from 2008.
 
+#### Ryan Campbell
+
+Ryan Campbell shares lots of graphics and data visualizations [@5th_Factor](https://twitter.com/5th_Factor). Fifth Factor Plots is a must follow if you're looking for accurate analysis of college hoops. 
+
 
 #### Adrian Atkinson
 

@@ -162,9 +162,9 @@ When a player picks up his second foul in the first half, does he head to the be
 
 For example, starters for Virginia played 3.8% of minutes with 2 fouls in the first half in the 2017-18 season. Virginia, and coach Tony Bennett, ranked 331st in the country in this metric. 
 
-{% hint style="info" %}
+
 _Remember when Virginia lost to 16-seed UMBC in the NCAA Tournament?_ Both Isaiah Wilkins and Devon Hall [picked up 2 fouls](https://virginiasports.com/boxscore.aspx?id=3540&path=mbball) in the first half, and both exited the game for the remainder of the first half after doing so.
-{% endhint %}
+
 
 KenPom also includes a few other measurements: 
 

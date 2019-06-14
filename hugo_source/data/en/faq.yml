@@ -1,0 +1,16 @@
+faqItem:
+  - ID : collapseOne
+    title : Who are you?
+    content : My name is Chris Gallo. I'm a former sports information director and now work in software. I put together this site because I was struggling to learn more about college basketball advanced analytics.
+
+  - ID : collapseTwo
+    title : Are you affiliated with kenpom.com?
+    content : Nope. I subscribe to <a href="http://kenpom.com/" >Kenpom.com</a>, and if you're interested in advanced analysis of college basketball, <a href ="http://kenpom.com/register.php" >you should too</a> or check out other <a href="https://cbbstatshelp.com/resources/intro" >resources</a> too.
+
+  - ID : collapseThree
+    title : How can I help you?
+    content : Suggest how this site can improve, and do it in a thoughtful way. If you want to share this site with others, that would be cool too.
+
+  - ID : collapseFour
+    title : Where do the stats come from?
+    content : All the data in the examples is pulled from <a href="http://kenpom.com/" >Kenpom.com</a>, <a href="http://www.sports-reference.com/cbb/" >sports-reference.com</a>, or the NCAA.

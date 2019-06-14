@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Stats on Doc List</title>
+    <link>gethugothemes.com/team-stats/</link>
+    <description>Recent content in Team Stats on Doc List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Dadgum Box Scores | Chris Gallo © 2017-2019.</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="gethugothemes.com/team-stats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Team Stats</title>
+      <link>gethugothemes.com/team-stats/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>gethugothemes.com/team-stats/intro/</guid>
+      <description>This section covers the how and the why behind a team&amp;rsquo;s performance.
+Does a team have a ton of experience or height?
+Does it shoot well from the 3 point-line or have an overwhelming presence in the paint?
+And what match-up is worth watching or tuning in to?
+In this section, we&amp;rsquo;ll answer each one of these questions.
+ Team Offense Team Defense Points Distribution Personnel Stats  </description>
+    </item>
+    
+    <item>
+      <title>Team Offense</title>
+      <link>gethugothemes.com/team-stats/team-offense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>gethugothemes.com/team-stats/team-offense/</guid>
+      <description>A team&amp;rsquo;s offense can be checked across 7 different stats:
+ 3P%: a team&amp;rsquo;s 3-point field goal percentage 2P%: a team&amp;rsquo;s 2-point field goal percentage FT%: a team&amp;rsquo;s free throw percentage Blk%: a team&amp;rsquo;s block percentage St%: a team&amp;rsquo;s steal percentage A%: a team&amp;rsquo;s assist percentage 3PA%: a team&amp;rsquo;s 3-point attempt percentage  3P% A team&amp;rsquo;s offensive 3-point field goal percentage is its made 3-point shots divided by its attempted 3-point shots.</description>
+    </item>
+    
+    <item>
+      <title>Team Defense</title>
+      <link>gethugothemes.com/team-stats/team-defense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>gethugothemes.com/team-stats/team-defense/</guid>
+      <description>A team&amp;rsquo;s defense can be evaluated using the same 7 stats:
+ 3P%: opponent&amp;rsquo;s 3-point field goal percentage 2P%: opponent&amp;rsquo;s 2-point field goal percentage FT%: opponent&amp;rsquo;s free throw percentage Blk%: opponent&amp;rsquo;s block percentage St%: opponent&amp;rsquo;s steal percentage A%: opponent&amp;rsquo;s assist percentage 3PA%: opponent&amp;rsquo;s 3-point attempt percentage  3P% A team&amp;rsquo;s defensive 3-point field goal percentage is its opponents&amp;rsquo; made 3-point shots divided by its opponents&amp;rsquo; attempted 3-point shots.
+3P% = Opp.</description>
+    </item>
+    
+    <item>
+      <title>Points Distribution</title>
+      <link>gethugothemes.com/team-stats/points-distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>gethugothemes.com/team-stats/points-distribution/</guid>
+      <description>How a team gets its points can be broken down into 3 areas:
+ Free throws: total points on made free throws 2-Point shots: total points on made 2-point shots 3-Point shots: total points on made 3-point shots  This breakdown describes the style of a team and its strengths. Each category can be used to assess a team&amp;rsquo;s offensive and defensive point distribution.
+Offensive Point Distribution This section shares examples of a team&amp;rsquo;s offensive distribution of points in these 3 categories.</description>
+    </item>
+    
+    <item>
+      <title>Personnel Stats</title>
+      <link>gethugothemes.com/team-stats/personnel-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>gethugothemes.com/team-stats/personnel-stats/</guid>
+      <description>A team&amp;rsquo;s personnel can be measured across 5 different categories:
+ Height: total height of a team weighted by minutes played Bench Minutes: the number of minutes a team&amp;rsquo;s bench plays Continuity: minutes played season-to-season Experience: year in school weighted by minutes played Defensive Fingerprint: identifies the style of a team&amp;rsquo;s defense 2-Foul Participation: percentage of time a starter with 2 fouls plays in the first half  Assumptions are made for each of these components, and detailed explanations are below.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,7 +20,7 @@
       <guid>/four-factors/intro/</guid>
       <description>The four factor concept comes from the mind of Dean Oliver.
 Oliver believes four factors determine why a team wins or loses. The four factors are:
- Shooting Avoiding turnovers Offensive rebounding Getting to the foul line  A team is measured both offensively and defensively on these four factors.
+1. Shooting 2. Avoiding turnovers 3. Offensive rebounding 4. Getting to the foul line  A team is measured both offensively and defensively on these four factors.
 Shooting The objective of the game is to score more points than the other team. And points come from made shots.</description>
     </item>
     
@@ -33,7 +33,7 @@ Shooting The objective of the game is to score more points than the other team. 
       <description>This stat measures a team&amp;rsquo;s ability to shoot 2-point and 3-point shots.
 A team’s field goal percentage is calculated by the number of shots made divided by the number of shots attempted. This includes both 2-point and 3-point shots.
 FG% = FGM/FGA * 100
-For example, in the 2018 NCAA Tournament Semifinal game between Villanova and Kansas, Villanova made 36 of its 65 shot attempts en route to scoring 95 points.</description>
+For example, Virginia defeated Syracuse during the 2018-19 regular season by a score of 79-53. The Cavaliers made 28 shots and attempted 51 total shots.</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ A team that rarely turns over the ball has more possessions and chances to score
 What percent of a team&amp;rsquo;s possessions result in a turnover?
 The answer is a team&amp;rsquo;s turnover percentage.
 TO% = TO / Possessions
-For example, in the first regular season game between North Carolina and Duke, North Carolina turned the ball over 2 times over 65 possessions.</description>
+For example, in the 2018 NCAA Tournament game between Texas Tech and Gonzaga, the Zags turned it over 16 times in 71 possessions.</description>
     </item>
     
     <item>
@@ -56,10 +56,10 @@ For example, in the first regular season game between North Carolina and Duke, N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/four-factors/offensive-rebounding/</guid>
-      <description>A team&amp;rsquo;s ability to increase its number of possessions, gives it a greater chance to score points and win games. Offensive rebounding is the main factor for a team to gain possessions.
+      <description>A team&amp;rsquo;s ability to increase its number of possessions, gives it a greater chance to score points and win games. Offensive rebounding is a main factor for a team to gain possessions.
 This is measured by offensive rebounding percentage or the percentage of offensive rebounds a team grabs over the course of a game or season.
 OR% = Offensive Rebounds / (Offensive Rebounds + Opponent&#39;s Defensive Rebounds)
-For example, over the entire 2017-2018 season Duke&amp;rsquo;s Offensive Rebounding Percentage was 38.</description>
+For example, over the entire 2018-2019 season Baylor&amp;rsquo;s Offensive Rebounding Percentage was 37.</description>
     </item>
     
     <item>

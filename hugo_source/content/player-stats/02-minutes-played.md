@@ -11,21 +11,21 @@ Minutes played measures how often a player is on the floor per game. This stat d
 
 `(%Min) = Minutes played / Possible Amount of Minutes`
 
-In the 2017-2018 season, Tyus Battle of Syracuse played in 96.2% of all minutes. This was good for 1st in the country.
+In the 2018-2019 season, Ky Bowman of Boston College played in 96.8% of all minutes. This was good for 1st in the country.
 
-Battle played 1443 total minutes of a possible 1500 minutes.
+Battle played 1220 total minutes of a possible 1260 minutes.
 
-`%Min = 1443 / 1500 = 0.962 x 100`
+`%Min = 1200 / 1220 = 0.9683 x 100`
 
 **How does this compare to minutes per game?**
 
-Syracuse played in 37 games in 2017-2018. Battle played a total of 39.0 minutes per game.
+Boston College played in 31 games in 2018-2019. Bowman played a total of 39.4 minutes per game.
 
-96.2% of 40 minutes is roughly 38.5 minutes per game.
+96.8% of 40 minutes is roughly 38.7 minutes per game.
 
 **Why is the percentage of minutes slightly higher?**
 
-Because Syracuse played 3 overtime games, including one double-overtime game. These games added 20 minutes to the possible minutes Battle could have played.
+Because Boston College played 4 overtime games. These games added 20 minutes to the possible minutes Bowman could have played.
 
 **What about injuries?**
 
@@ -39,11 +39,11 @@ The answer is a player's percentage of possessions used \(%Poss\). It's calculat
 
 A few different ways a possession can end:
 
-* making a shot \(credit\)
-* missing a shot, rebounded by defense \(blame\)
-* committing a turnover \(blame\)
+- making a shot \(credit\)
+- missing a shot, rebounded by defense \(blame\)
+- committing a turnover \(blame\)
 
 `(%Poss) = Possessions Ended / Total Possessions`
 
-Following the same example, Tyus Battle was used on 26.2% of Syracuse possessions in the 2017-2018 season.
+Following the same example, Bowman was used on 26.7% of Boston College possessions in the 2018-2019 season.
 

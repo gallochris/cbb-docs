@@ -32,7 +32,7 @@ In this section, you&amp;rsquo;ll find the different stats that go into assessin
       <description>Minutes played measures how often a player is on the floor per game. This stat doesn&amp;rsquo;t factor in overtime games, so it can be a bit misleading.
 KenPom uses a percentage of possible minutes played to account for overtime periods.
 (%Min) = Minutes played / Possible Amount of Minutes
-In the 2017-2018 season, Tyus Battle of Syracuse played in 96.2% of all minutes. This was good for 1st in the country.</description>
+In the 2018-2019 season, Ky Bowman of Boston College played in 96.8% of all minutes. This was good for 1st in the country.</description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@ ARate = 100 * AST / (((MP / (Team&#39;s MP / 5)) * Team&#39;s FG) - FG)</descrip
       <description>A player&amp;rsquo;s defensive ability can be measured using blocks and steals.
  Block Percentage (%Blocks) Steal Percentage (%Stls)  Block Percentage Block percentage is the percentage of opponents&amp;rsquo; 2-point shots that are blocked by an individual player while he&amp;rsquo;s on the floor.
 %Blocks = Total Player&#39;s Blocks / (%Min * Opponents&#39; 2-point attempts)
-For example, Sagaba Konate of West Virginia posted a 15.64 block percentage in the 2017-2018 season. A block percentage of 15.</description>
+For example, Jeff Otchere of Stony Brook posted a 16.25 block percentage in the 2018-2019 season. A block percentage of 16.</description>
     </item>
     
     <item>

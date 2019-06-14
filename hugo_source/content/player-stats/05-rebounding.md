@@ -18,13 +18,13 @@ This is calculated by incorporating a player's total offensive rebounds, percent
 
 `OR% = PlayerOR / [%Min * (Team OR + Opp. DR)]`
 
-For example, Nick Ward of Michigan State posted an offensive rebounding percentage of 18.3%.
+For example, Ed Croswell of La Salle posted an offensive rebounding percentage of 18.1%.
 
-This ranked 1st in the nation in the 2017-2018 season.
+This ranked 1st in the nation in the 2018-2019 season.
 
-Ward grabbed 94 offensive rebounds playing in 47.1% of his team's minutes. Michigan State snagged 401 total offensive rebounds and their opponent's grabbed 689 total defensive rebounds.
+Croswell grabbed 98 offensive rebounds playing in 47.6% of his team's minutes. La Salle snagged 328 total offensive rebounds and their opponent's grabbed 812 total defensive rebounds.
 
-`OR% = 94 / [.471 * (401 + 689)] = 0.183 * 100`
+`OR% = 98 / [.476 * (328 + 812)] = 0.1806 * 100`
 
 ### Defensive Rebounding Percentage
 
@@ -34,11 +34,11 @@ It incorporates a player's total defensive rebounds, percentage of minutes playe
 
 `DR% = PlayerOR / [%Min * (Team DR + Opp. OR)]`
 
-For example, New Mexico State's Jemerrio Jones had a defensive rebounding percentage of 37.1%.
+For example, Devontae Cacok of UNC Wilmington had a defensive rebounding percentage of 33.5%.
 
-This ranked 1st amongst all Division-I players in the 2017-2018 season.
+This ranked 1st amongst all Division-I players in the 2018-2019 season.
 
-Jones collected 323 defensive rebounds when he was on the court for 69.2% of his team's minutes. New Mexico State had 975 total defensive rebounds to their opponent's 282 offensive rebounds.
+Cacok collected 273 defensive rebounds when he was on the court for 71% of his team's minutes. UNC Wilmington had 834 total defensive rebounds to their opponent's 293 offensive rebounds.
 
-`OR% = 323 / [.692 * (975 + 282)] = 0.371 * 100`
+`OR% = 273 / [.710 * (834 + 293)] = 0.335 * 100`
 

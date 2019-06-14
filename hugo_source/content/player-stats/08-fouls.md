@@ -17,11 +17,11 @@ Free throw rate measures a player's ability to get to the foul line relative to 
 
 `FTRate = 100 * FTA / FGA`
 
-For example, PJ Washington of Kentucky had a free throw rate was 80.3 in the 2017-2018 season. This ranked 3rd amongst all Division-I players.
+For example, Steffon Mitchell of Boston College had a free throw rate was 147.9 in the 2018-2019 season. This ranked 1st amongst all Division-I players.
 
-Washington attempted 208 free throws and 259 field goals.
+Mitchell attempted 108 free throws and 73 field goals.
 
-`FTRate = 100 * 208 / 259 = 80.3`
+`FTRate = 100 * 108 / 73 = 147.9`
 
 ### Fouls committed per 40 minutes played FC/40
 
@@ -29,11 +29,11 @@ This is a straight-forward stat that shows the amount of fouls a player commits 
 
 `FC/40 = (Fouls committed / MP) * 40`
 
-For example, Quentin Snider of Louisville committed 1.32 fouls per 40 minutes in 2017-2018. This was 12th in the country.
+For example, Kyle Guy of Virginia committed 1.16 fouls per 40 minutes in 2018-2019. This was 5th in the country.
 
-Snider committed 38 fouls playing in 1155 minutes over the season.
+Snider committed 39 fouls playing in 1345 minutes over the season.
 
-`FC/40 = (38 / 1155) * 40 = 1.32`
+`FC/40 = (39 / 1345) * 40 = 1.16`
 
 ### Fouls drawn per 40 minutes played \(FD/40\)
 
@@ -47,9 +47,9 @@ This is a stat developed by [KenPom](http://kenpom.com/) and explained more on [
 
 Applying all of these assumptions can give a fair estimate of a player's fouls drawn.
 
-For example, Collin Sexton of Alabama drew 7.6 fouls per 40 minutes played in 2017-2018. This ranked 7th in the nation.
+For example, Deishuan Booker of Long Beach State drew 7.6 fouls per 40 minutes played in 2018-2019. This ranked 1st in the nation.
 
-Sexton played in 987 minutes in the 2017-2018 season drawing about 188 fouls.
+Booker played in 1060 minutes in the 2018-2019 season drawing about 200 fouls.
 
-`FD/40 = (188 / 987) * 40 = 7.6`
+`FD/40 = (200 / 987) * 40 = 7.6`
 

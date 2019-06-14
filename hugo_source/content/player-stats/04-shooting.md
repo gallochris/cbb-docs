@@ -19,13 +19,13 @@ A percentage of shots taken is measured by taking a players' field goal attempts
 
 `%Shots = Player's FGA / (%Min * TeamFGA)`
 
-For example, Wisconsin's Ethan Happ took 33.7% of his team's shots in 2017-2018 season. This ranked 19th amongst all Division-I players.
+For example, Duke's RJ Barrett took 33% of his team's shots in 2018-2019 season. This ranked 21st amongst all Division-I players.
 
-Happ attempted 458 of his team's 1770 shots and played in 76.8% minutes over the year.
+Barrett attempted 702 of his team's 2418 shots and played in 87.9% minutes over the year.
 
-`%Shots = 458 / (.768 x 1770) = 33.69`
+`%Shots = 702 / (.879 x 2418) = 33.03`
 
-A percentage of shots a player has taken is a good indication of [possessions used](../efficiency/possessions.md).
+A percentage of shots a player has taken is a good indication of possessions used.
 
 ### Effective Field Goal Percentage
 
@@ -33,11 +33,11 @@ The exact calculation used for teams here is also applied to individuals. As a r
 
 `eFG% = (.5 * 3FGM + FGM) / FGA`
 
-For example, Mikal Bridges of Villanova had an eFG% was 62.3% in the 2017-2018 season. This was 48th in the country.
+For example, Brandon Clarke of Gonzaga had an eFG% was 69.2% in the 2018-2019 season. This was 4th in the country.
 
-104 of Bridge's 244 made field goals were from behind 3-point line, and he attempted 475 total shots.
+Only 4 of Clarke's 257 made field goals were from behind 3-point line, and he attempted 374 total shots.
 
-`eFG% = (.5 * 104 + 244) / 475 = 0.623 * 100`
+`eFG% = (.5 * 4 + 253) / 374 = 0.6818 * 100`
 
 ### True Shooting Percentage
 
@@ -47,9 +47,9 @@ It uses the same multiplier \(.475\) that is used when calculating efficiency. T
 
 `TS% = Points scored / ( 2* (FGA + 0.475 * FTA) )`
 
-For example, William & Mary's Connor Burchfield posted a true shooting percentage of 73% in the 2017-2018 season. This is good for 1st in the country.
+For example, Princeton's Richmond Aririguzoh posted a true shooting percentage of 72.3% in the 2018-2019 season. This is good for 1st in the country.
 
-Burchfield scored 390 points, attempted 248 field goals and 40 free throws.
+Aririguzoh scored 317 points, attempted 165 field goals and 114 free throws.
 
-`TS% = 390 / (2 * (248 + 0.475 * 40) ) = 0.730 * 100`
+`TS% = 317 / (2 * (165 + 0.475 * 114) ) = 0.723 * 100`
 

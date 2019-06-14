@@ -82,7 +82,7 @@ In this section, we&amp;rsquo;ll answer each one of these questions.
       <guid>/four-factors/intro/</guid>
       <description>The four factor concept comes from the mind of Dean Oliver.
 Oliver believes four factors determine why a team wins or loses. The four factors are:
-1. Shooting 2. Avoiding turnovers 3. Offensive rebounding 4. Getting to the foul line  A team is measured both offensively and defensively on these four factors.
+ Shooting Avoiding turnovers Offensive rebounding Getting to the foul line  A team is measured both offensively and defensively on these four factors.
 Shooting The objective of the game is to score more points than the other team. And points come from made shots.</description>
     </item>
     
@@ -238,10 +238,10 @@ This number tells you how many points a player is likely to score when given an 
 A team&amp;rsquo;s offensive efficiency is the amount of points it scores per 100 offensive possessions.
 OE = (Points scored * 100) / Possessions
 An Example
-Let&amp;rsquo;s stick with the 2018 NCAA Tournament First Round game between Marshall and Wichita State.
-Marshall had 72.45 possessions and scored 81 points. Its offensive efficiency was 112.
-OE = (81 * 100) / 72.45 = 111.80
-Wichita State scored 75 points over 72.</description>
+Let&amp;rsquo;s stick with the 2019 Championship Game between Virginia and Texas Tech.
+Virginia had around 69.93 possessions and scored 85 points. Its offensive efficiency was around 121.6.
+OE = (85 * 100) / 69.93 = 121.55
+Texas Tech scored 77 points over 70.</description>
     </item>
     
     <item>
@@ -264,9 +264,9 @@ Wichita State scored 75 points over 72.</description>
       <description>Combined efficiency is the number of points a team would gain or lose in 100 possessions. Take a team&amp;rsquo;s offensive efficiency and subtract the defensive efficiency.
 Combined Efficiency = OE - DE
 An Example
-Using the same example of the 2018 NCAA Tournament First Round game between Marshall and Wichita State, Marshall&amp;rsquo;s offensive efficiency was 112 and its defensive efficiency was 104.
-Marshall&amp;rsquo;s combined efficiency is 8.
-Combined Efficiency = 112 - 104 = 8</description>
+Using the same example of the 2018 Championshp Game between Virginia and Texas Tech, Virginia&amp;rsquo;s offensive efficiency was 121 and its defensive efficiency was 109.
+The Cavaliers combined efficiency is 12.
+Combined Efficiency = 121 - 109 = 8</description>
     </item>
     
     <item>

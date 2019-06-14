@@ -11,21 +11,21 @@ A team’s field goal percentage is calculated by the number of shots made divid
 
 `FG% = FGM/FGA * 100`
 
-For example, in the 2018 NCAA Tournament Semifinal game between Villanova and Kansas, Villanova made 36 of its 65 shot attempts en route to scoring 95 points.
+For example, Virginia defeated Syracuse during the 2018-19 regular season by a score of 79-53. The Cavaliers made 28 shots and attempted 51 total shots. 
 
-The Wildcats' field goal percentage was **55.4**%.
+Virginia's field goal percentage was **54.9**%.
 
-`FG% = 36/65 = 0.5538 * 100`
+`FG% = 28/51 = 0.549 * 100`
 
 Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal.
 
 `eFG% = (.5 * 3FGM + FGM) / FGA * 100`
 
-Villanova made 18 3-point shots and attempted 40 in the game. 18 of their 36 made shots were worth 3 points. And 40 of their 65 shot attempts were 3-pointers.
+Virginia made 18 3-point shots and attempted 25 in the game. 18 of their 28 made shots were worth 3 points. And 26 of their 51 shot attempts were 3-pointers.
 
-The Wildcats eFG% was **69.2%** for the game.
+Virginia's eFG% was **72.5%** for the game.
 
-`(eFG% = (.5 * 18 + 36) / 65 = 0.6923 * 100)`
+`(eFG% = (.5 * 18 + 28) / 51 = 0.7255 * 100)`
 
 ### Why this statistic is important
 

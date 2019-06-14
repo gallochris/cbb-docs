@@ -15,13 +15,13 @@ The answer is a team's turnover percentage.
 
 `TO% = TO / Possessions`
 
-For example, in the first regular season game between North Carolina and Duke, North Carolina turned the ball over 2 times over 65 possessions.
+For example, in the 2018 NCAA Tournament game between Texas Tech and Gonzaga, the Zags turned it over 16 times in 71 possessions. 
 
-North Carolina's turnover percentage was **3.1%**.
+Gonzaga's turnover percentage was **22.5%**.
 
-`TO% = 2 / 65 = .0308 * 100`
+`TO% = 16 / 71 = .225 * 100`
 
-This means only about 3% out of every North Carolina possession ended in a turnover.
+This means only about 77.5% out of every Gonzaga possession ended *without* a turnover.
 
 ### Pace Independent
 
@@ -33,9 +33,9 @@ _Why is this important?_
 
 A team's philosophy has a lot to do with how many possessions per game it averages.
 
-For example, Virginia averaged around **60 possessions** per game in the 2017-2018 season.
+For example, Virginia averaged around **59 possessions** per game in the 2018-2019 season.
 
-Arizona State averaged almost 12 more a game \(**72 possessions** per game\).
+North Carolina averaged almost 15 more a game \(**74 possessions** per game\).
 
 If a team averages more possessions per game, there are more opportunities to turnover the ball. Pace of play doesn't help or hurt a team's turnover percentage.
 
@@ -45,7 +45,7 @@ Turnover percentage **doesn't factor in pace of play**.
 
 On the other side of the ball, an opponent's ability to force turnovers can play into a team's turnover percentage or how it avoids turnovers.
 
-If a team has a bad turnover night, remember, it's likely equal parts of bad offense and good defense by the opponent.
+If a team has a bad turnover night, remember, it's likely equal parts bad offense and good defense by the opponent.
 
 [KenPom](http://kenpom.com/) estimates turnovers are influenced by the defense [less than 51% of the time](http://kenpom.com/blog/offense-vs-defense-turnover-percentage/).
 

@@ -15,11 +15,11 @@ This is measured through a team's free throw rate.
 
 The amount of free throw attempts divided by the amount of field goal attempts.
 
-For example, Kentucky attempted 930 free throws and 2115 shots over 37 games in the 2017-2018 season.
+For example, UCF attempted 798 free throws and 1763 shots over 33 games in the 2018-2019 season.
 
-The Lobos' free throw rate was **44.0**, the fourth best amongst all Division-I teams over the course of the season.
+The Golden Knights' free throw rate was **45.3**, the fourth best amongst all Division-I teams over the course of the season.
 
-`FTRate = 930 / 2115 = 0.4397 * 100`
+`FTRate = 798 / 1763 = 0.4526 * 100`
 
 ### Defensive Free Throw Rate
 
@@ -27,27 +27,23 @@ A team's ability to prevent their opponent from getting to the foul line is equa
 
 If the opposition attempts fewer free throws, it decreases their opportunity to score and increases a team's chance to win.
 
-For example, Purdue's defensive free throw rate was the eighth best in the country in the 2017-2018 season.
+For example, Notre Dame's defensive free throw rate was the best in the country in the 2018-2019 season.
 
-The Boilermakers' opponents attempted 531 free throws and 2197 field goals in 36 games in 2017-2018.
+Irish opponents attempted 438 free throws and 2006 field goals in 33 games in 2018-2019.
 
-Purdue's Free Throw Rate was **24.2**.
+Purdue's Free Throw Rate was **21.8**.
 
-`FTRate = 531 / 2197 = 0.2417 * 100`
+`FTRate = 438 / 2006 = 0.2183 * 100`
 
 ### What about made free throws?
 
 Free throw rate puts more value on getting to the foul line. Not making foul shots.
 
-Volume is more important in this stat. If a team can attempt more free throws, it has a better chance to score and win.
+Volume is more important when measuring it this way. If a team can attempt more free throws, it has a better chance to score and win.
 
-The assumption is a team that attempts more free throws is better than a team that makes more free throws over time.
+The assumption is a team that attempts more free throws is better than a team that makes more free throws over time. This doesn't always show up in a single game. 
 
-In the 2018 NCAA Tournament First Round game between Alabama and Virginia Tech, Alabama missed 9 free throws \(18-27\).
-
-Virginia Tech missed 6 free throws, but attempted 7 fewer free throws \(14-20\) and lost the game by 3 points.
-
-The logic here is the more attempts, the more opportunity to make foul shots.
+The logic is the more attempts, the more opportunity to make foul shots.
 
 **Measuring Makes**
 
@@ -55,11 +51,11 @@ Another way to measure a team's ability to get to the foul line is to include a 
 
 This calculation takes free throw makes and divides them by the total number of field goal attempts.
 
-Using the same Kentucky example above, the Wildcats made 649 free throws over 37 games in the 2017-2018 season.
+Using the same UCF example above, the Golden Knights made 442 free throws over 33 games in the 2018-2019 season.
 
-Using this calculation, Kentucky's free throw rate was 30.7.
+Using this calculation, Kentucky's free throw rate was 25.1.
 
-`FTRate = 649 / 2115 = 0.3069 * 100`
+`FTRate = 442 / 1763 = 0.2507 * 100`
 
-**Important**: This calculation \(makes\) is significantly lower than using attempts, 44.0 versus 30.7 in the Kentucky example.
+**Important**: This calculation \(makes\) is significantly lower than using attempts, 45.3 versus 25.1 in the UCF example.
 

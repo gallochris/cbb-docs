@@ -9,10 +9,11 @@ The four factor concept comes from the mind of [Dean Oliver](http://www.rawbw.co
 
 Oliver believes four factors determine why a team wins or loses. The four factors are:
 
-1. Shooting
-2. Avoiding turnovers
-3. Offensive rebounding
-4. Getting to the foul line
+
+	1. Shooting
+	2. Avoiding turnovers
+	3. Offensive rebounding
+	4. Getting to the foul line
 
 A team is measured both offensively and defensively on these four factors.
 
@@ -30,7 +31,7 @@ Learn how to [calculate effective field goal percentage](/four-factors/efg).
 
 A turnover is when a team loses its possession or gives the ball to the opponent before shooting or scoring. A good team values its possessions and doesn't give any away to the other team.
 
-This is measured through turnover percentage. What is the number of times a team turns over the ball per possession.
+This is measured through turnover percentage. What percentage of a team's offensive possessions end in a turnover? 
 
 Here's how to [determine a team's turnover percentage](/four-factors/turnovers).
 

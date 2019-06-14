@@ -13,15 +13,15 @@ A team's offensive efficiency is the amount of points it scores per 100 offensiv
 
 **An Example**
 
-Let's stick with the 2018 NCAA Tournament First Round game between Marshall and Wichita State.
+Let's stick with the 2019 Championship Game between Virginia and Texas Tech.
 
-Marshall had 72.45 possessions and scored 81 points. Its offensive efficiency was **112**.
+Virginia had around 69.93 possessions and scored 85 points. Its offensive efficiency was **around 121.6**.
 
-`OE = (81 * 100) / 72.45 = 111.80`
+`OE = (85 * 100) / 69.93 = 121.55`
 
-Wichita State scored 75 points over 72.08 possessions for an OE of **104**.
+Texas Tech scored 77 points over 70.63 possessions for an OE of **around 109**.
 
-`OE = (75 * 100) / 72.08 = 104.05`
+`OE = (77 * 100) / 70.63 = 109.02`
 
 ### Defensive Efficiency
 
@@ -31,13 +31,13 @@ A team's defensive efficiency is the amount of points it allows per 100 defensiv
 
 **An Example**
 
-Following our example above, Marshall's defensive efficiency is **104**. Marshall allowed 75 points over 72.08 possessions.
+Following our example above, Virgina's defensive efficiency is **around 109**. Virginia allowed 77 points over 70.63 possessions.
 
-`DE = (75 * 100) / 72.08 = 104.05`
+`DE = (77 * 100) / 70.63 = 109.02`
 
-Wichita State's defensive efficiency is **112**. The Shockers allowed 81 points over 72.47 possessions.
+Texas Tech's defensive efficiency is **around 121.6**. The Red Raiders allowed 85 points over 69.93 possessions.
 
-`ODE = (81 * 100) / 72.45 = 111.80`
+`DE = (85 * 100) / 69.93 = 121.55`
 
 Notice this is the _inverse_. An opponent's offensive efficiency equals a team's defensive efficiency. A team's offensive efficiency equals their opponent's defensive efficiency.
 
@@ -45,9 +45,9 @@ Notice this is the _inverse_. An opponent's offensive efficiency equals a team's
 
 Remember this is the number of points scored or allowed per **100 possessions**. Offensive efficiency _isn't_ an indication of how many points a team scores. Defensive efficiency _doesn't_ suggest how many points a team allows.
 
-The final score of this game was Marshall 81, Wichita State 75. Not 112-104.
+The final score of this game was Virginia 85, Texas Tech 77. Not 121-109.
 
-The average college basketball game features around 70 possessions. In our example above, the game featured about 72 possessions.
+In our example above, the game featured about 70 possessions.
 
 The Offensive Efficiency numbers are high because the statistic is over 100 possessions. Not 72 or 70.
 
@@ -57,32 +57,31 @@ _Don't confuse points-per-game with offensive or defensive efficiency._
 
 A team's efficiency can be broken into four factors. Remember those [factors](/four-factors/intro)?
 
-
 Let's continue with this same game as an example.
 
-Marshall turned in an offensive efficiency of 112.
+Virginia turned in an offensive efficiency of around 121.
 
-`eFG% = 54%`
+`eFG% = 55.1%`
 <br>
-`OR% = 20%`
+`OR% = 32.4%`
 <br>
-`TO% = 12.5%`
+`TO% = 15.8%`
 <br>
-`FTRate = 36.7`
+`FTRate = 39.0`
 
-Marshall made a high percentage of shots, avoided turnovers 87% of the time, and frequently got to the foul line.
+Virginia made a solid percentage of its shots, avoided turnovers around 85% of the time, and frequently got to the foul line.
 
-Wichita State posted an offensive efficiency of 104.
+Texas Tech posted an offensive efficiency of 109.
 
-`eFG% = 48%`
+`eFG% = 50.8%`
 <br>
-`OR% = 41%`
+`OR% = 24.3%`
 <br>
-`TO% = 21%`
+`TO% = 11.5%`
 <br>
-`FTRate = 26.2`
+`FTRate = 23.8`
 
-While Wichita State rebounded a lot of their missed shots and shot the ball decent, Marshall was just a bit better.
+While Texas Tech avoided turnovers on almost 89% of its possessions, the Red Raiders rebounded fewer missed shots and got to the foul line less than Virginia. Texas Tech also made a lower percentage of its shots. 
 
-This a good reason why Marshall won the game by 6 points. A higher offensive efficiency and a lower defensive efficiency than their opponent.
+This a good reason why Virginia won the game by 8 points. The Cavaliers were more efficient on both ends. 
 

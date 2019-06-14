@@ -13,17 +13,17 @@ It's raw information. The raw offensive efficiency and raw defensive efficiency 
 
 Here are 2 additional examples of the importance of adjusted efficiencies using [KenPom's](http://kenpom.com/) analysis.
 
-Take Virginia in the 2017-2018 season, Virginia's raw OE was 110.4. This ranked 52nd amongst all Division-I teams.
+Virginia's raw OE was 116.6 for thr 2018-19 season. This ranked 4th amongst all Division-I teams.
 
-Virginia plays in the Atlantic Coast Conference. Virginia's strength of schedule was 37th in the country in the 2017-2018 season.
+Virginia plays in the Atlantic Coast Conference. Virginia's strength of schedule was 22nd in the country in the 2018-2019 season.
 
-Virginia's AdjO was 115.2, 30th in the country, 22 spots ahead of their raw OE ranking.
+Virginia's AdjOE was 123.4, 2nd in the country, a couple spots ahead of their raw OE ranking.
 
-In the same season, Villanova posted a raw DE of 99.3. This raw number is good for 51st in the country.
+In the same season, Tennessee posted a raw DE of 100.2. This raw number is good for 104th in the country.
 
-Villanova is part of the Big East Conference. Their strength of schedule was 6th out of 351 teams.
+Tennessee is part of the Southeastern Conference. Their strength of schedule was 25th out of 351 teams.
 
-Villanova's AdjD was 94.0, which ranked 11th in the nation, 40 spots ahead their raw DE ranking.
+Tennessee's AdjD was 96.5, which ranked 42nd in the nation, 62 spots ahead of their raw DE ranking.
 
 _This is why adjustments are important. Competition._
 
@@ -55,10 +55,10 @@ In every game, each team wants to play at a certain pace. Adjusted tempo tries t
 
 For example, let's say North Carolina defeated Virginia 72-70.
 
-* Virginia: averages 60 possessions per game
-* North Carolina: averages 72 possessions per game
-* Expected: 62 possessions
-* Actual: 64 possessions
+- Virginia: averages 60 possessions per game
+- North Carolina: averages 72 possessions per game
+- Expected: 62 possessions
+- Actual: 64 possessions
 
 Since we expected the game to result in 62 possessions, an adjustment must be made in the way each team wanted to play this game.
 
@@ -70,17 +70,17 @@ This is the adjusted tempo. It's an estimate of the pace a team would have again
 
 `AdjT = Avg. Possessions adjusted by % increase/decrease of actual possessions`
 
-North Carolina's Adjusted Tempo is **74.34** possessions.
+North Carolina's Adjusted Tempo is **74.33** possessions.
 
-`1% of 72 = 0.72 * 3.23 = 2.34 + 72 = 74.34`
+`3.23% of 72 = 0.72 * 3.23 = 2.33 + 72 = 74.33`
 
-North Carolina would have around **74 possessions** against a team that plays at the average Division-I tempo.
+North Carolina would have **around 74 possessions** against a team that plays at the average Division-I tempo.
 
-Virginia's Adjusted Tempo is **63.87** possessions.
+Virginia's Adjusted Tempo is **61.94** possessions.
 
-`1% of 60 = 0.60 * 3.23 = 1.95 + 60 = 61.95`
+`3.23% of 60 = 0.60 * 3.23 = 1.94 + 60 = 61.94`
 
-Virginia would have **62 possessions** against an opponent that plays at the average Division-I Tempo.
+Virginia would have **around 62 possessions** against an opponent that plays at the average Division-I Tempo.
 
 Each team's preference resulted in a game pace of 64 total possessions against each other.
 
@@ -112,13 +112,13 @@ The percent difference of the expected OE and actual OE is 4.35%.
 
 Villanova's Adjusted OE is 125.
 
-1% of 120 = 1.20 \* 4.35 = 5.22 + 120 = 125.22
+`4.35% of 120 = 1.20 * 4.35 = 5.22 + 120 = 125.22`
 
 Villanova's OE would be around 125 against the average Division-I defense.
 
 Alabama A&M's Adjusted DE is 125.
 
-1% of 120 = 1.20 \* 4.35 = 5.22 + 120 = 125.22
+`4.35% of 120 = 1.20 * 4.35 = 5.22 + 120 = 125.22`
 
 Alabama A&M's DE would be around 125 against the average Division-I offense.
 

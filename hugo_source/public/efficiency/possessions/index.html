@@ -244,11 +244,11 @@
 
 <p>This isn&rsquo;t always what happens or how a team gains a possession.</p>
 
-<p>In large part because of <em>fouls and free throws</em>.</p>
+<p>In large part, it&rsquo;s because of <em>fouls and free throws</em>.</p>
 
 <p>For example, teams are awarded 1-and-1 free throws after their opponent commits 7 team fouls. If the first free throw is made, a second one is awarded.</p>
 
-<p>If a player is fouled shooting a 2-point shot, it gets 2 free throws. A player can also be fouled when shooting a 3-point shot, meaning 3 free throws are awarded.</p>
+<p>If a player is fouled shooting a 2-point shot, the player gets 2 free throws. A player can also be fouled when shooting a 3-point shot, meaning 3 free throws are awarded.</p>
 
 <p>A player can be fouled on a made shot, and earn an extra free throw. Known as an <em>and-1</em>.</p>
 
@@ -265,7 +265,7 @@
 <li>Free throw attempts</li>
 </ol>
 
-<p><code>Possessions = FGA - OR + TO + (.475 * FTA)</code></p>
+<p><code>Possessions = (FGA - OR )+ TO + (.475 * FTA)</code></p>
 
 <p><em>The free throw multiplier</em> is required because it&rsquo;s difficult to determine how a team made it to the foul line.</p>
 
@@ -279,19 +279,19 @@
 
 <h4 id="example">Example</h4>
 
-<p>Let&rsquo;s take at the 2018 NCAA Tournament game between Marshall and Wichita State.</p>
+<p>Let&rsquo;s take at the 2019 National Championship Game between Virginia and Texas Tech.</p>
 
-<p>Marshall attempted 60 shots, recorded 7 offensive rebounds, 9 turnovers, and attempted 22 free throws. This results in 72.45 possessions.</p>
+<p>Virginia attempted 59 shots, recorded 11 offensive rebounds, 11 turnovers, and attempted 23 free throws. This results in 69.93 possessions.</p>
 
-<p><code>Possessions = 60 - 7 + 9 + (.475 * 22) = 72.45</code></p>
+<p><code>Possessions = (59 - 11) + 11 + (.475 * 23) = 69.93</code></p>
 
-<p>Wichita State attempted 65 shots, grabbed 16 offensive rebounds, turned the ball over 15 times, and attempted 17 free throws. That&rsquo;s 78.30 possessions.</p>
+<p>Texas Tech attempted 66 shots, grabbed 9 offensive rebounds, turned the ball over 8 times, and attempted 15 free throws. That&rsquo;s 78.30 possessions.</p>
 
-<p><code>Possessions = 65 - 16 + 15 + (.475 * 17) = 72.08</code></p>
+<p><code>Possessions = (66 - 9) + 8 + (.475 * 15) = 70.63</code></p>
 
-<p>The average of these two numbers is 78.27.</p>
+<p>The average of these two numbers is 70.28.</p>
 
-<p>The game had around <strong>72 total possessions</strong> (Marshall won 81-75).</p>
+<p>The game had around <strong>70 total possessions</strong> (Virginia won 85-77 in overtime).</p>
 
 <p>This is the foundation that is used to manage how efficient each team was in the game.</p>
 <nav class="pagination mt-3"><a class="nav nav-prev" href="/efficiency/intro/" title="Intro to Efficiency"><i class="ti-arrow-left mr-2"></i>Intro to Efficiency</a>

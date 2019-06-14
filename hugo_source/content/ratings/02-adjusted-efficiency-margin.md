@@ -15,11 +15,11 @@ AdjEM is used to rate teams. It was introduced by [KenPom](http://kenpom.com/) p
 
 The adjusted efficiency margin shows the number of points a team would be expected to outscore the average Division-I team over 100 possessions without adjusting for location of the game.
 
-For example, in the 2017-2018 season, if Villanova played the average Division-I team on a neutral court, on average, Villanova would win a 100-possession game by about 34 points.
+For example, in the 2018-2019 season, if Virginia played the average Division-I team on a neutral court, on average, the Cavaliers would win a 100-possession game by about 34 points.
 
-Villanova's AdjOE is 127.8 and AdjDE is 94.0.
+Virginia's AdjOE is 127.3 and AdjDE is 89.2.
 
-`AdjEM = 127.8 - 94.0 = 33.8`
+`AdjEM = 127.3 - 89.2 = 34.22`
 
 #### Why use AdjEM and not log5 and the Pythagorean expectation?
 

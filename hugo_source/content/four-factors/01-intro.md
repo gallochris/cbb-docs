@@ -9,11 +9,10 @@ The four factor concept comes from the mind of [Dean Oliver](http://www.rawbw.co
 
 Oliver believes four factors determine why a team wins or loses. The four factors are:
 
-
-	1. Shooting
-	2. Avoiding turnovers
-	3. Offensive rebounding
-	4. Getting to the foul line
+1. Shooting
+2. Avoiding turnovers
+3. Offensive rebounding
+4. Getting to the foul line
 
 A team is measured both offensively and defensively on these four factors.
 

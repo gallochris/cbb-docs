@@ -29,15 +29,15 @@ For example, Virginia historically plays at a slower pace. They value the basket
 
 Virginia averages around **60 possessions** per game.
 
-In contrast, West Virginia plays an average tempo. The Mountaineers press you on defense and love to try to force you into turnovers. This can increase the amount of possessions in their games.
+In contrast, North Carolina plays a faster tempo. The Tar Heels run the secondary break and try to score as quick as possible on the offensive end. This can increase the amount of possessions in their games.
 
-West Virginia averages about **70 possessions** per game.
+North Carolina averages about **74 possessions** per game.
 
 **Is there a right or wrong way to play?**
 
 No. This is the beauty of college basketball.
 
-In 2017-2018, with contrasting styles, both Virginia and West Virginia were among the top ranked teams in the country throughout the season.
+In 2018-2019, with contrasting styles, both Virginia and North Carolina were among the top ranked teams in the country throughout the season. Both were 1 seeds in the NCAA Tournament. 
 
 But what happens when teams with contrasting styles play each other?
 

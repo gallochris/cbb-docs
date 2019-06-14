@@ -44,35 +44,30 @@ This method takes into account that the majority or teams play to the level of t
 
 ### Examples
 
-In the 2017-2018 season, UMBC was viewed as the second luckiest team in Division-I.
+In the 2018-2019 season, UNC Greensboro was viewed as the luckiest team in Division-I.
 
-UMBC was 25-11. Its actual winning percentage was 0.694.
+UMBC was 29-7. Its actual winning percentage was 0.8056.
 
-Using the correlated Gaussian method, UMCB's expected winning percentage was 0.57.
+Using the correlated Gaussian method, UNC Greensboro's expected winning percentage was 0.64.
 
-UMBC's actual winning percentage is 0.125 points higher than its expected. This translates into roughly 5 wins that are attributed to luck.
+UNC Greensboro's actual winning percentage was 0.143 points higher than its expected. This translates into roughly 5 wins that were attributed to luck.
 
-If you take a glance at UMBC's results, the Retrievers won 7 games by 5 points or less, which can be viewed as _lucky_.
+If you take a glance at UNC Greensboro's results, the Spartans won 7 games by 5 points or less, which can be viewed as _lucky_.
 
-In comparison, the 2017-2018 Wake Forest Demon Deacons squad team finished 11-20. Wake Forest ranked 350th out of 351 teams in luck.
+In comparison, the 2018-2019 Clemson squad team finished 20-14. The Tigers ranked 320th out of 353 teams in luck.
 
-Wake Forest's actual winning percentage was 0.35.
+Clemson's actual winning percentage was 0.5882.
 
-It's expected winning percentage using Oliver's method was 0.47.
+It's expected winning percentage using Oliver's method was 0.65.
 
-This is -0.120 points lower than expected. This means about 4 losses were attributed to luck.
+This is -0.066 points lower than expected. This means about 2 losses were attributed to luck.
 
-Taking a look at Wake Forest's game-by-game results, you'll find 5 losses by a 5 points or less. This can be seen as _unlucky_.
+Taking a look at Clemson's game-by-game results, you'll find 6 losses by a 2 points or less. This can be seen as _unlucky_.
 
 #### Remember luck doesn't factor into ratings
 
 Luck isn't used when rating a team. It gives you an idea on how a team performs in close game and how it plays to its competition.
 
-A very lucky team will likely be rated lower by [KenPom](http://kenpom.com/).
+A lucky team will likely be rated lower by [KenPom](http://kenpom.com/).
 
-Where an extremely unlucky team could be rated higher.
-
-Using our example above, UMBC \(lucky\) was 166th in the final 2017-2018 KenPom ratings.
-
-While Wake Forest \(unlucky\) was 89th in the final 2017-2018 KenPom ratings.
-
+Where an unlucky team could be rated higher.

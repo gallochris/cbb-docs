@@ -39,17 +39,17 @@ Think of APL as a decoration or ornament to a team's style.
 
 ### Examples
 
-In the 2017-18 season, Virginia ranked 351st in offensive APL at **20.9 seconds**. Virginia's average offensive possession against opponents last about 21 seconds.
+In the 2018-19 season, Virginia ranked 352nd in offensive APL at **21.0 seconds**. Virginia's average offensive possession against opponents last about 21 seconds.
 
-Virginia plays patient and seeks the best offensive shot. The Cavaliers also rarely turn the ball over, ranking 5th in offensive turnover rate.
+Virginia plays patient. The Cavaliers seek the best offensive shot. Virginia also rarely turns the ball over, ranking 12th in offensive turnover rate.
 
 This style caters to a low offensive APL.
 
-In contrast, Auburn ranked 17th in defensive APL at **16.4** seconds in the 2017-18 season. On average, the Tigers' defensive possessions lasted about 16 seconds.
+In contrast, Arizona State ranked 52nd in defensive APL at **16.9** seconds in the 2018-19 season. On average,  defensive possessions lasted about 17 seconds for the Sun Devils.
 
-Auburn's opponents shot an above average percentage, ranking 111th in effective field goal percentage. Opponents rarely turned over the ball and seldom got to the free throw line.
+Arizona State's opponents shot a below average percentage. The Sun Devils ranked 72nd in defensive effective field goal percentage. Opponents turned over the ball on about 19% of possessions and seldom got to the free throw line.
 
-This all describes a style of high defensive APL.
+This all describes a style of higher defensive APL.
 
 ### Other Style Components
 

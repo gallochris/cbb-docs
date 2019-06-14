@@ -27,21 +27,21 @@ The non-conference strength of schedule uses the same calculation and 3 componen
 
 ### Examples
 
-For example, let's use the 2017-2018 North Carolina team. Its overall strength of schedule was rated first in the country at +13.26.
+For example, let's use the 2018-19 Kansas team. Its overall strength of schedule was rated first in the country at +14.13.
 
 Using the 3 components:
 
-1. AdjEM = 13.3
-2. AdjO = 111.6
-3. AdjD = 98.3
+1. AdjEM = 14.13
+2. AdjO = 111.8
+3. AdjD = 97.8
 
-`AdjEM = 111.6 - 98.3 = 13.3`
+`AdjEM = 111.8 - 97.8 = 14.13`
 
-This means North Carolina's 2017-2018 opponents would be expected beat the average Division-I opponent by about 13 points over 100 possessions.
+This means Kansas' 2018-2019 opponents would be expected beat the average Division-I opponent by about 14 points over 100 possessions.
 
-North Carolina's non-conference strength of schedule was +7.58.
+The Kansas non-conference strength of schedule was +10.36.
 
-North Carolina played 17 non-conference games. These 17 opponents would be expected to outscore the average Division-I team by about 8 points.
+Kansas' non-conference opponents would be expected to outscore the average Division-I team by about 10 points.
 
 ### Sagarin WIN50 Method
 

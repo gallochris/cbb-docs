@@ -28,9 +28,9 @@ This is measured by gathering the average listed height of every player on a tea
 
 It _excludes players that play less than 10% of their team's minutes_.
 
-Syracuse led the country in average height at 80.1 inches in the 2017-2018 season.
+Syracuse led the country in average height at 79.4 inches in the 2018-2019 season.
 
-The shortest player featured in over 10% of the team's minutes was 6'5 or 75 inches.
+The shortest player featured in over 10% of the team's minutes was 6'3 or 73 inches.
 
 **Positional Height**
 
@@ -38,13 +38,13 @@ This can also be broken down into positional height, meaning by each of the 5 po
 
 It takes the minutes played for each team ordered by height. For example, 20% of minutes played by the tallest players are likely the center's minutes.
 
-For example, Purdue's average height at the center position was +5.4 inches taller than the average of all teams.
+For example, UCF's average height at the center position was +6.4 inches taller than the average of all teams.
 
-Purdue's starting center, Isaac Haas, was 7'2 or 86 inches, and their backup center, Matt Haarms was 7'3 or 87 inches.
+UCF's starting center, Tacko Fall, was 7'6 or 90 inches. 
 
 **Effective Height**
 
-Effective height is the average of the center and power forward position. The same Purdue squad posted an effective height of 3 inches for these 2 positions.
+Effective height is the average of the center and power forward position. The same UCF squad posted an effective height of 3.9 inches for these 2 positions.
 
 ### Bench Minutes
 
@@ -52,9 +52,9 @@ Bench minutes, defined by [KenPom](http://kenpom.com/), makes an assumption that
 
 The remaining minutes are assumed to be the bench minutes. If a player has played less than _10% of their team's minutes, the player is excluded_ in the bench minutes.
 
-Alabama's bench played in 36.6% of its minutes in the 2017-2018. That ranked 49th in the country. In 3 of its 5 positions, players shared a large percentage of minutes played.
+New Meixco State's bench played in 49.5% of its minutes in the 2018-2019 season. That ranked 1st in the country. No one on the team played more than 62.2% of the team's minutes. 
 
-In contrast, Kansas' bench played in only 20.9% of its minutes. That's 345th amongst all Division-I teams.
+In contrast, Hartford's bench played in only 24.8% of its minutes. That's last or 353rd amongst all Division-I teams.
 
 Whether a team relies on its bench is more of an attribute than a driving factor of its success. It can certainly be a factor if there is foul trouble, injuries, or a stretch of several games played in a short period.
 
@@ -103,11 +103,11 @@ For example, below is Kentucky's continuity over the last 5 seasons:
 ```text
 Year    |   Continuity  | Division-I Rank |
 --------+---------------+----------------+
+18-19   |   21.8        |   326
 17-18   |   11.2        |   348
 16-17   |   30.2        |   322
 15-16   |   22.0        |   335
 14-15   |   49.6        |   176
-13-14   |   23.6        |   336
 --------+---------------+----------------+
 ```
 
@@ -131,9 +131,9 @@ Senior     |   3        |
 
 Experience uses minutes played similar to the average height calculation. Players that play in _less than 10% of their team's minutes are excluded_.
 
-In the 2017-2018 season, Wichita State ranked 13th in the country with 2.36 years of experience. This squad featured 9 upperclassmen \(seniors and/or juniors\).
+In the 2018-2019 season, Hartford ranked 1st in the country with 2.90 years of experience. This squad also had the lowest amount of bench minutes, which could explain why it relied on its upperclassman more. 
 
-For a comparison, Kentucky ranked dead last in the country with 0.18 years of experience.
+For a comparison, Duke ranked 350th in the country with 0.65 years of experience, as the Blue Devils played multiple freshman players. 
 
 ### Defensive Fingerprint
 
@@ -152,7 +152,7 @@ It weights these stats to develop a profile, and place a team in a certain finge
 
 Syracuse is known for its 2-3 zone. It statistically is near the bottom of all teams in defensive assist percentage and 3-point attempt percentage.
 
-In the 2017-2018 season, Syracuse ranked 351th in defensive A% at 73.8 and 338th in defensive 3PA% at a 44.5% clip.
+In the 2018-2019 season, Syracuse ranked 352nd in defensive A% at 67.8 and 347th in defensive 3PA% at a 48.1% clip.
 
 ### 2-Foul Participation 
 
@@ -162,9 +162,7 @@ When a player picks up his second foul in the first half, does he head to the be
 
 For example, starters for Virginia played 3.8% of minutes with 2 fouls in the first half in the 2017-18 season. Virginia, and coach Tony Bennett, ranked 331st in the country in this metric. 
 
-
 _Remember when Virginia lost to 16-seed UMBC in the NCAA Tournament?_ Both Isaiah Wilkins and Devon Hall [picked up 2 fouls](https://virginiasports.com/boxscore.aspx?id=3540&path=mbball) in the first half, and both exited the game for the remainder of the first half after doing so.
-
 
 KenPom also includes a few other measurements: 
 
@@ -172,6 +170,3 @@ KenPom also includes a few other measurements:
 * total time starters with 2 fouls are on the floor 
 * adjusted 2-foul participation: accounts for backcourt players being allowed to play more
 * percentage of bench minutes
-
-
-

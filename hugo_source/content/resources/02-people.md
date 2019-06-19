@@ -40,5 +40,4 @@ Ryan Campbell shares lots of graphics and data visualizations [@5th_Factor](http
 
 Adrian Atkinson is a data scientist and in his free time, he analyzes college hoops. He's contributed to tons of places, including ESPN, and you can follow him on Twitter [@FreeportKid](https://twitter.com/FreeportKid).
 
-#### 
 

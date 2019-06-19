@@ -21,37 +21,37 @@ This section shares examples of a team's offensive distribution of points in the
 
 `FT = FTM / TP * 100`
 
-Syracuse scored 24.1% of its points from the free throw line in the 2017-2018 season to rank 5th amongst all Division-I teams.
+Pacific scored 24.3% of its points from the free throw line in the 2018-2019 season to rank 2nd amongst all Division-I teams.
 
-Syracuse scored 594 of its 2466 points from the foul line.
+Pacific scored 520 of its 2138 points from the foul line.
 
-`FT = 594 / 2466 * 100 = 24.1`
+`FT = 520 / 2138 * 100 = 24.3`
 
-Kansas, a 1-seed in the 2018 NCAA Tournament, was 348th in the country gathering 14.3% of its points from the free throw line in the same season.
+Wofford was 332nd in the country gathering 14.6% of its points from the free throw line in the same season.
 
 #### 2-Point Shots
 
 `2P = 2P / TP * 100`
 
-57.9% of Texas A&M's points came from 2-point shots in the 2017-2018 season. That's good for 19th amongst all Division-I teams.
+57.9% of Dayton's points came from 2-point shots in the 2018-2019 season. That's good for 6th amongst all Division-I teams.
 
-Texas A&M made 746 2-point shots, good for 1492 points out of its 2631 total points.
+Dayton made 697 2-point shots, good for 1394 points out of its 2406 total points.
 
-`2P = 1492 / 2631 * 100 = 57.9%`
+`2P = 1394 / 2406 * 100 = 57.9%`
 
-In contrast, the 2017-2018 Missouri team scored 40.8% of its points from 2-point shots. That's 349th in the country in the same season.
+In contrast, the 2018-2019 Villanova team scored 38.0% of its points from 2-point shots. That's 352nd in the country in the same season.
 
 #### 3-Point Shots
 
 `3P = 3P / TP * 100`
 
-Davidson scored 42.0% of its points from behind the 3-point line in the 2017-2018 season. This percentage was 6th amongst all teams.
+Villanova scored 43.0% of its points from behind the 3-point line in the 2018-2019 season. This percentage was 8th amongst all teams.
 
-The Wildcats made 353 3-points shots or scored 1,059 points of its 2,519 total points from 3-point land.
+The Wildcats made 380 3-points shots or scored 1,140 points of its 2,654 total points from 3-point land.
 
-`3P = 1059 / 2519 * 100 = 42.0%`
+`3P = 1140 / 2654 * 100 = 42.95%`
 
-And not surprising, the same Davidson team got only 14.6% of its points from the 3-point shot.
+Kentucky scored 23.0% of its points from the 3-point shot, good for 342nd in the country.
 
 **Think of it as a pie, if a team is low in one area of point distribution \(small slice\), it will be high in another area \(big slice\).**
 
@@ -63,37 +63,39 @@ This section shares examples of a team's defensive distribution of points in the
 
 `FT = Opp. FT / TP * 100`
 
-Houston's opponents scored 24.3% of their points from the free throw line in the 2017-2018 season. This percentage was 9th in the nation.
+Houston's opponents scored 23.3% of their points from the free throw line in the 2018-2019 season. This percentage was 13th in the nation.
 
-The Cougar's opponents scored 552 of its 2271 points from the foul line.
+The Cougar's opponents scored 527 of its 2258 points from the foul line.
 
-`FT = 552 / 2271 * 100 = 24.3`
+`FT = 527 / 2258 * 100 = 23.3`
 
-Oklahoma's opponents scored 15% of its points from the free throw line. This was 340th amongst all Division-I teams.
+Notre Dame's opponents scored 13.6% of its points from the free throw line. This was 352nd amongst all Division-I teams.
 
-Oklahoma didn't put its opponents on the foul line while Houston fouled its opponents early and often.
+Notre Dame didn't put its opponents on the foul line while Houston fouled its opponents early and often.
 
 #### 2-Point Shots
 
 `2P = 2P / TP * 100`
 
-Wisconsin's opponents scored 56.3% of their points from 2-point shots in the 2017-2018 season. That's good for 9th amongst all Division-I teams.
+Michigan's opponents scored 59.5% of their points from 2-point shots in the 2018-2019 season. That's good for 2nd amongst all Division-I teams.
 
-The Badgers opponents made 613 2-point shots, good for 1226 points out of their total 2117 points.
+The Wolverines' opponents made 642 2-point shots, good for 1284 points out of their total 2158 points.
 
-`2P = 1226 / 2117 * 100 = 56.6%`
+`2P = 1284 / 2158 * 100 = 59.5%`
 
-As a comparison, West Virginia's opponents scored 42.5% of their points from 2-point shots. That's 338th in the country during the same year.
+As a comparison, Syracuse's opponents scored 40.2% of their points from 2-point shots. That's 350th in the country during the same year.
 
 #### 3-Point Shots
 
 `3P = 3P / TP * 100`
 
-North Carolina allowed opponents to score 39.5% of their points from behind the 3-point line in the 2017-2018 season. This was good for 9th in the country.
+Virginia Tech allowed opponents to score 41.9% of their points from behind the 3-point line in the 2018-2019 season. This was good for 2nd highest in the country. 
 
-Tar Heel opponents scored 1071 of their 2711 total points from 3-point shots.
+If you recall, the Hokies allowed 49.9% of opponents shots from behind the 3-point line. If you allow more 3-point shots, it's likely your opponents will score a higher percentage from 3-point land too. 
 
-`3P = 1071 / 2711 * 100 = 39.5%`
+The Hokies' opponents scored 909 of their 2172 total points from 3-point shots.
 
-In contrast, the Marshall allowed its opponents to score just 27.1% of their points from 3-point shots. That was 314th in the nation.
+`3P = 909 / 2172 * 100 = 41.85%`
+
+In contrast, Michigan allowed its opponents to score just 25.2% of their points from 3-point shots. That was 346th in the nation.
 

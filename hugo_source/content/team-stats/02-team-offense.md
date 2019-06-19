@@ -21,13 +21,13 @@ A team's offensive 3-point field goal percentage is its made 3-point shots divid
 
 `3P% = 3PM / 3PA * 100`
 
-Purdue ranked second in the country in 3P% with a 42.0% clip in the 2017-2018 season.
+Wofford ranked second in the country in 3P% with a 41.4% clip in the 2018-2019 season.
 
-The Boilermakers attempted 840 3-point shots and made 353 of them.
+The Terriers attempted 929 3-point shots and made 385 of them.
 
-`3P% = 353 / 840 * 100 = 42.0%`
+`3P% = 385 / 929 * 100 = 41.4%`
 
-In comparison, UTSA ranked dead last in 3P% in the 2017-2018 season, shooting 26.7% from behind the 3-point line.
+In comparison, Jackson State ranked dead last in 3P% in the 2018-2019 season, shooting 27.9% from behind the 3-point line.
 
 ### 2P%
 
@@ -35,13 +35,13 @@ A team's offensive 2-point field goal percentage is its 2-point makes divided by
 
 `2P% = 2PM / 2PA * 100`
 
-Virginia Tech posted a 2P% of 57.3%. That ranked 7th amongst all Division-I teams.
+Gonzaga posted a 2P% of 61.4%. That ranked 1st amongst all Division-I teams.
 
-The Hokies made 642 of 1120 2-point shot attempts.
+The Zags made 890 of 1449 2-point shot attempts.
 
-`2P% = 642 / 1120 * 100 = 57.3`
+`2P% = 890 / 1449 * 100 = 61.4`
 
-In comparison, Western Carolina shot 45.3% from 2-point land, that was 321st amongst all teams in the 2017-2018 season.
+In comparison, Delaware State made 37.7% from 2-point land, that was 353rd amongst all teams in the 2018-2019 season.
 
 ### FT%
 
@@ -49,11 +49,11 @@ A team's offensive free throw percentage is its free throw makes divided by its 
 
 `FT% = FTM / FTA * 100`
 
-Villanova made 559 free throws out of 718 attempts in 2017-2018. At 77.9%, the Wildcats ranked 11th in the country.
+Mississippi made 461 free throws out of 559 attempts in 2018-2019. At 78.3%, the Rebels ranked 5th in the country.
 
-`FT% = 559 / 718 * 100 = 77.9`
+`FT% = 461 / 559 * 100 = 78.3`
 
-And in comparison, Michigan shot 66.0% from the free throw line. This was rated 326th amongst all Division-I teams in 2017-2018.
+And in comparison, Saint Louis made 59.8% from the free throw line. This was rated 352nd amongst all Division-I teams in 2018-2019.
 
 ### Blk%
 
@@ -61,13 +61,13 @@ A team's offensive block percentage is its opponents total blocked shots divided
 
 `Blk% = Opp. blocks / 2PA * 100`
 
-Arizona only had 6.8% of its shots blocked by opponents in 2017-2018. This was good for 17th in the nation.
+Gonzaga only had 5.8% of its shots blocked by opponents in 2018-2019. This was good for 2nd in the nation.
 
-The Wildcats attempted 1362 2-point shots and opponents blocked 92 of those attempts.
+The Bulldogs attempted 1449 2-point shots and opponents blocked 84 of those attempts.
 
-`Blk = 92 / 1362 * 100 = 6.8%`
+`Blk = 84 / 1449 * 100 = 5.8%`
 
-Pittsburgh had 15.3% of its shots blocked in 2017-2018. That clip ranks last \(351st\) in the country.
+Pittsburgh had 15.1% of its shots blocked in 2018-2019. That clip ranks last \(353rd\) in the country.
 
 ### Stl%
 
@@ -75,13 +75,13 @@ A team's offensive steal percentage is its opponent's number of steals divided b
 
 `Stls% = Opp. steals / Offensive Possessions`
 
-College of Charleston's percentage was 6.2% in 2017-2018. This means only 6.2% of the Cougars' offensive possessions ended with their opponent stealing the ball. It was good for 1st in the country.
+Cinncinatti's percentage was 5.8% in 2018-2019. This means only 5.8% of the Bearcats' offensive possessions ended with their opponent stealing the ball. It was good for 1st in the country.
 
-The Cougars had about 2,270 offensive possessions and their opponents recorded 140 steals.
+The Bearcats had about 2,280 offensive possessions and their opponents recorded 133 steals.
 
-`Stls% = 140 / 2270 * 100 = 6.2`
+`Stls% = 133 / 2280 * 100 = 6.2`
 
-In comparison, Charlotte registered an offensive steals percentage of 10.6%. This means 10.6% of Charlotte's offensive possessions ended with their opponent stealing the ball. The 10.6% clip was 335th in the country.
+In comparison, North Florida registered an offensive steals percentage of 12.5%. This means 12.5% of North Florida's offensive possessions ended with their opponent stealing the ball. The 12.5% clip was 353rd or dead last in the country.
 
 ### A%
 
@@ -89,11 +89,11 @@ A team's offensive assist percentage is its total amount of assists divided by i
 
 `A% = Total team assists / FGM * 100`
 
-Michigan State posted a 67.6% assist rate in the 2017-2018 season, good for 1st in the nation. The Spartans had 670 assists on 991 made baskets.
+Michigan State posted a 66.8% assist rate in the 2018-2019 season, good for 1st in the nation. The Spartans had 715 assists on 1071 made baskets.
 
-`A% = 670 / 991 * 100 = 67.6`
+`A% = 715 / 1071 * 100 = 66.8`
 
-California only posted 41.5% assist percentage in the same season. This ranked 342nd amongst all Division-I teams.
+Saint Mary's posted a 37.9% assist percentage in the same season. This ranked 353rd amongst all Division-I teams.
 
 ### 3PA%
 
@@ -101,11 +101,11 @@ A team's offensive 3-point attempt percentage is the percentage of 3-point shots
 
 `3PA% = 3PA / FGA * 100`
 
-In 2017-2018, Villanova ranked 12th all Division-I teams with 47.5% of shots coming from behind the 3-point line.
+In the 2018-2019 season, Villanova ranked 3rd all Division-I teams with 53.5% of shots coming from behind the 3-point line.
 
-Vanderbilt attempted 1158 3-pointers out of 1240 total shot attempts.
+Vanderbilt attempted 1081 3-pointers out of 2019 total shot attempts.
 
-`3PA% = 1158 / 2440 * 100 = 47.5`
+`3PA% = 1081 / 2019 * 100 = 53.5`
 
-In contrast, Kentucky attempted only 25.8% of its shots behind the 3-point line. That's percentage was 344th in the country.
+In contrast, Minnesota attempted only 29.6% of its shots behind the 3-point line. That's percentage was 343rd in the country.
 

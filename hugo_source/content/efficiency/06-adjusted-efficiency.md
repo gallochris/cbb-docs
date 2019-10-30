@@ -98,9 +98,9 @@ Alabama A&M has a defensive efficiency \(DE\) of 120.
 
 The national average for OE is 105.
 
-Villanova's expected OE is 150.
+Villanova's expected OE is 135.
 
-Both team's efficiency is plus 15 from the national average. This is why the expected OE is 150.
+Both team's efficiency is plus 15 from the national average. This is why the expected OE is 135.
 
 Villanova's actual OE is 115.
 
